@@ -1,0 +1,21 @@
+K:\Алгоритмы\Lab 3\Task 3\Task 3\bin\Debug\Task 3.exe.config
+K:\Алгоритмы\Lab 3\Task 3\Task 3\bin\Debug\Task 3.exe
+K:\Алгоритмы\Lab 3\Task 3\Task 3\bin\Debug\Task 3.pdb
+K:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+K:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+K:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.exe
+K:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.pdb
+K:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task_3.GraphPanel.resources
+K:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.csproj.GenerateResource.cache
+G:\Алгоритмы\Lab 3\Task 3\Task 3\bin\Debug\Task 3.exe.config
+G:\Алгоритмы\Lab 3\Task 3\Task 3\bin\Debug\Task 3.exe
+G:\Алгоритмы\Lab 3\Task 3\Task 3\bin\Debug\Task 3.pdb
+G:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+G:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task_3.GraphPanel.resources
+G:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.csproj.GenerateResource.cache
+G:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+G:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.exe
+G:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.pdb
+E:\Алгоритмы\Lab 3\Task 3\Task 3\bin\Debug\Task 3.exe.config
+E:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.exe
+E:\Алгоритмы\Lab 3\Task 3\Task 3\obj\Debug\Task 3.pdb

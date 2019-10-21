@@ -1,0 +1,14 @@
+K:\Алгоритмы\Lab 3\Task 5\Task 5\bin\Debug\Task 5.exe.config
+K:\Алгоритмы\Lab 3\Task 5\Task 5\bin\Debug\Task 5.exe
+K:\Алгоритмы\Lab 3\Task 5\Task 5\bin\Debug\Task 5.pdb
+K:\Алгоритмы\Lab 3\Task 5\Task 5\obj\Debug\Task 5.csprojAssemblyReference.cache
+K:\Алгоритмы\Lab 3\Task 5\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache
+K:\Алгоритмы\Lab 3\Task 5\Task 5\obj\Debug\Task 5.exe
+K:\Алгоритмы\Lab 3\Task 5\Task 5\obj\Debug\Task 5.pdb
+G:\Алгоритмы\Lab 3\Task 5\Task 5\bin\Debug\Task 5.exe.config
+G:\Алгоритмы\Lab 3\Task 5\Task 5\bin\Debug\Task 5.exe
+G:\Алгоритмы\Lab 3\Task 5\Task 5\bin\Debug\Task 5.pdb
+G:\Алгоритмы\Lab 3\Task 5\Task 5\obj\Debug\Task 5.csprojAssemblyReference.cache
+G:\Алгоритмы\Lab 3\Task 5\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache
+G:\Алгоритмы\Lab 3\Task 5\Task 5\obj\Debug\Task 5.exe
+G:\Алгоритмы\Lab 3\Task 5\Task 5\obj\Debug\Task 5.pdb

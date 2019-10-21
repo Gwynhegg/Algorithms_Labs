@@ -1,0 +1,7 @@
+K:\Алгоритмы\Lab 3\Task 1\task1\bin\Debug\task1.exe.config
+K:\Алгоритмы\Lab 3\Task 1\task1\bin\Debug\task1.exe
+K:\Алгоритмы\Lab 3\Task 1\task1\bin\Debug\task1.pdb
+K:\Алгоритмы\Lab 3\Task 1\task1\obj\Debug\task1.csprojAssemblyReference.cache
+K:\Алгоритмы\Lab 3\Task 1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+K:\Алгоритмы\Lab 3\Task 1\task1\obj\Debug\task1.exe
+K:\Алгоритмы\Lab 3\Task 1\task1\obj\Debug\task1.pdb
