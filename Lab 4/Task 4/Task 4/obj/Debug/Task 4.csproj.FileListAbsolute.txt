@@ -1,0 +1,13 @@
+K:\Алгоритмы\Lab 4\Task 4\Task 4\bin\Debug\Task 4.exe.config
+K:\Алгоритмы\Lab 4\Task 4\Task 4\bin\Debug\Task 4.exe
+K:\Алгоритмы\Lab 4\Task 4\Task 4\bin\Debug\Task 4.pdb
+K:\Алгоритмы\Lab 4\Task 4\Task 4\obj\Debug\Task 4.csprojAssemblyReference.cache
+K:\Алгоритмы\Lab 4\Task 4\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
+K:\Алгоритмы\Lab 4\Task 4\Task 4\obj\Debug\Task 4.exe
+K:\Алгоритмы\Lab 4\Task 4\Task 4\obj\Debug\Task 4.pdb
+E:\Алгоритмы\Lab 4\Task 4\Task 4\bin\Debug\Task 4.exe.config
+E:\Алгоритмы\Lab 4\Task 4\Task 4\obj\Debug\Task 4.exe
+E:\Алгоритмы\Lab 4\Task 4\Task 4\obj\Debug\Task 4.pdb
+E:\Алгоритмы\Lab 4\Task 4\Task 4\bin\Debug\Task 4.exe
+E:\Алгоритмы\Lab 4\Task 4\Task 4\bin\Debug\Task 4.pdb
+E:\Алгоритмы\Lab 4\Task 4\Task 4\obj\Debug\Task 4.csprojResolveAssemblyReference.cache

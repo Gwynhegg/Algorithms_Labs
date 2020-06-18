@@ -1,0 +1,25 @@
+F:\Алгоритмы\Lab 6\Task 2\Task 2\bin\Debug\Task 2.exe.config
+F:\Алгоритмы\Lab 6\Task 2\Task 2\bin\Debug\Task 2.exe
+F:\Алгоритмы\Lab 6\Task 2\Task 2\bin\Debug\Task 2.pdb
+F:\Алгоритмы\Lab 6\Task 2\Task 2\obj\Debug\Task 2.csprojResolveAssemblyReference.cache
+F:\Алгоритмы\Lab 6\Task 2\Task 2\obj\Debug\Task 2.exe
+F:\Алгоритмы\Lab 6\Task 2\Task 2\obj\Debug\Task 2.pdb
+C:\Users\111\Desktop\Учёба\programmin\Кислицын\Lab5\Task 2\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\111\Desktop\Учёба\programmin\Кислицын\Lab5\Task 2\Task 2\bin\Debug\Task 2.exe
+C:\Users\111\Desktop\Учёба\programmin\Кислицын\Lab5\Task 2\Task 2\bin\Debug\Task 2.pdb
+C:\Users\111\Desktop\Учёба\programmin\Кислицын\Lab5\Task 2\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\111\Desktop\Учёба\programmin\Кислицын\Lab5\Task 2\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\Учёба\programmin\Кислицын\Lab5\Task 2\Task 2\obj\Debug\Task 2.exe
+C:\Users\111\Desktop\Учёба\programmin\Кислицын\Lab5\Task 2\Task 2\obj\Debug\Task 2.pdb
+H:\Алгоритмы\Lab 5\Task 5\Task 2\bin\Debug\Task 2.exe.config
+H:\Алгоритмы\Lab 5\Task 5\Task 2\bin\Debug\Task 2.exe
+H:\Алгоритмы\Lab 5\Task 5\Task 2\bin\Debug\Task 2.pdb
+H:\Алгоритмы\Lab 5\Task 5\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+H:\Алгоритмы\Lab 5\Task 5\Task 2\obj\Debug\Task 2.exe
+H:\Алгоритмы\Lab 5\Task 5\Task 2\obj\Debug\Task 2.pdb
+E:\Алгоритмы\Lab 5\Task 5\Task 2\bin\Debug\Task 2.exe.config
+E:\Алгоритмы\Lab 5\Task 5\Task 2\obj\Debug\Task 2.exe
+E:\Алгоритмы\Lab 5\Task 5\Task 2\obj\Debug\Task 2.pdb
+E:\Алгоритмы\Lab 5\Task 5\Task 2\bin\Debug\Task 2.exe
+E:\Алгоритмы\Lab 5\Task 5\Task 2\bin\Debug\Task 2.pdb
+E:\Алгоритмы\Lab 5\Task 5\Task 2\obj\Debug\Task 2.csprojResolveAssemblyReference.cache

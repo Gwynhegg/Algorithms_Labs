@@ -1,0 +1,12 @@
+H:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\bin\Debug\Task 2.exe.config
+H:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\bin\Debug\Task 2.exe
+H:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\bin\Debug\Task 2.pdb
+H:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+H:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\obj\Debug\Task 2.exe
+H:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\obj\Debug\Task 2.pdb
+E:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\bin\Debug\Task 2.exe.config
+E:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\obj\Debug\Task 2.exe
+E:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\obj\Debug\Task 2.pdb
+E:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\bin\Debug\Task 2.exe
+E:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\bin\Debug\Task 2.pdb
+E:\Алгоритмы\Lab 7\Task 2\Task 2\Task 2\obj\Debug\Task 2.csprojResolveAssemblyReference.cache

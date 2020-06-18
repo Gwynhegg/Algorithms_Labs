@@ -1,0 +1,12 @@
+2
+Estimated time: 00:00:00.0131559
+Estimated memory: 568 KB
+18
+Estimated time: 00:00:00.0000385
+Estimated memory: 0 KB
+113
+Estimated time: 00:00:00.0000318
+Estimated memory: 0 KB
+179
+Estimated time: 00:00:02.7108740
+Estimated memory: 33532 KB

@@ -1,0 +1,6 @@
+H:\Алгоритмы\Lab 8\Task 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\Алгоритмы\Lab 8\Task 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\Алгоритмы\Lab 8\Task 1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\Алгоритмы\Lab 8\Task 1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+H:\Алгоритмы\Lab 8\Task 1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\Алгоритмы\Lab 8\Task 1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

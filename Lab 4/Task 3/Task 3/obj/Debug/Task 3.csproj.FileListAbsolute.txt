@@ -1,0 +1,13 @@
+K:\Алгоритмы\Lab 4\Task 3\Task 3\bin\Debug\Task 3.exe.config
+K:\Алгоритмы\Lab 4\Task 3\Task 3\bin\Debug\Task 3.exe
+K:\Алгоритмы\Lab 4\Task 3\Task 3\bin\Debug\Task 3.pdb
+K:\Алгоритмы\Lab 4\Task 3\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+K:\Алгоритмы\Lab 4\Task 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+K:\Алгоритмы\Lab 4\Task 3\Task 3\obj\Debug\Task 3.exe
+K:\Алгоритмы\Lab 4\Task 3\Task 3\obj\Debug\Task 3.pdb
+E:\Алгоритмы\Lab 4\Task 3\Task 3\bin\Debug\Task 3.exe.config
+E:\Алгоритмы\Lab 4\Task 3\Task 3\obj\Debug\Task 3.exe
+E:\Алгоритмы\Lab 4\Task 3\Task 3\obj\Debug\Task 3.pdb
+E:\Алгоритмы\Lab 4\Task 3\Task 3\bin\Debug\Task 3.exe
+E:\Алгоритмы\Lab 4\Task 3\Task 3\bin\Debug\Task 3.pdb
+E:\Алгоритмы\Lab 4\Task 3\Task 3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache
